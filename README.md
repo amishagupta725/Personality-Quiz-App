@@ -4,7 +4,7 @@ It is a quiz app which at the end of the quiz results in a type of "Personality"
 
 ### Answer I chose was "White" 
 
-< img src = " Screenshot/Screenshot_2020-01-21-19-42-29-22_a77d241ee042ba7782407cbaba94327c.png" width=380 height=760 >
+< img src = "Screenshot/Screenshot_2020-01-21-19-42-29-22_a77d241ee042ba7782407cbaba94327c.png" width=380 height=760 >
 
 ### Answer I chose was "Elephant"
 

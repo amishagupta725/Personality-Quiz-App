@@ -14,6 +14,6 @@ It is a quiz app which at the end of the quiz results in a type of "Personality"
 
 <img src="Screenshot/Screenshot_2020-01-21-19-42-35-33_a77d241ee042ba7782407cbaba94327c.png" width=380 height=760 >
 
-### I now get a personality result as per the answers I chose
+### I now get a personality result as per the answers I chose and the quiz can also be reset
 
 <img src=Screenshot/Screenshot_2020-01-21-19-42-42-12_a77d241ee042ba7782407cbaba94327c.png width=380 height=760>

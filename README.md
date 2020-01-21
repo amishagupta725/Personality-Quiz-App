@@ -1,16 +1,19 @@
-# first_project
+# Personality-Quiz-App
+It is a quiz app which at the end of the quiz results in a type of "Personality" according to the answers given by the user. It is a basic app built in Flutter.
+# Screenshots :
 
-A new Flutter project.
+### Answer I chose was "White" 
 
-## Getting Started
+< img src = " Screenshot/Screenshot_2020-01-21-19-42-29-22_a77d241ee042ba7782407cbaba94327c.png" width=380 height=760 >
 
-This project is a starting point for a Flutter application.
+### Answer I chose was "Elephant"
 
-A few resources to get you started if this is your first Flutter project:
+<img src ="Screenshot/Screenshot_2020-01-21-19-42-32-41_a77d241ee042ba7782407cbaba94327c.png" width=380 height=760 >
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### Answer I chose was "Cricket"
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="Screenshot/Screenshot_2020-01-21-19-42-35-33_a77d241ee042ba7782407cbaba94327c.png" width=380 height=760 >
+
+### I now get a personality result as per the answers I chose
+
+<img src=Screenshot/Screenshot_2020-01-21-19-42-42-12_a77d241ee042ba7782407cbaba94327c.png width=380 height=760>
